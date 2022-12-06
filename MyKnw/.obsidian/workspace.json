@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "fa5cb1329cbd5d87",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa920bd0dfea317b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e621df32be77bbd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59d1e6afce5dcbb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "00b80dd89aa14d37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9459b5c614bffbab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1019b991f2ff577",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "429b2c4b870921d2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "right": {
+    "id": "eb8b9ec31a547ca2",
+    "type": "split",
+    "children": [
+      {
+        "id": "75ec2cc288b5aaa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb6ac04d293c78c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bf6cd5fd64ad6b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e303a7c94ca6dc2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9ea0fe3d6565c883",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8e621df32be77bbd",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "20222B/Emprendimiento.md"
+  ]
+}
